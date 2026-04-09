@@ -13,6 +13,7 @@ A lightweight and efficient Tic-Tac-Toe game written in C. This project demonstr
    `gcc "Tic Tac Toe (Vinay singh rajpoot).c" -o tictactoe`
 3. Run the executable:
    `./tictactoe`
+4. The password is prinevsr
 
 ## 👨‍💻 Developed By
 **Vinay Singh Rajpoot**
